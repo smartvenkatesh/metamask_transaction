@@ -1,0 +1,9 @@
+.deposit{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+#deposit-input{
+  border: 1px solid rgb(77, 75, 75);
+  border-radius: 5px;
+  width: 230px;
+}
